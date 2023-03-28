@@ -30,4 +30,4 @@ Represents powder snow as a type of fluid.
 ### **water**
 `water = "water"`
 
-Represents water as a type of fluida.
+Represents water as a type of fluid.
